@@ -1,2 +1,2 @@
 # git_test
-test git
+My First Git Repository
